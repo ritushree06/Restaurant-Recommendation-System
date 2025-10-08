@@ -123,7 +123,8 @@ The app displays the **top recommended restaurants** in a table. Example:
 
 **Ritushree Bohara**
 💼 Software Developer | Fintech & Web Development Enthusiast
-📧 [[bohraritushree@gmail.com](mailto:bohraritushree@gmail.com)]
+📧 [bohraritushree@gmail.com](mailto:bohraritushree@gmail.com)
+
 
 ---
 
