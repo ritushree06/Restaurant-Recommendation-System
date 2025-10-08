@@ -57,7 +57,7 @@ The system includes a **Streamlit web interface** where users can select their I
 hybrid_recommender/
 ├── data/
 │   └── zomato.csv
-├── hybrid_recommender.py
+├── recommender.py
 ├── app.py
 └── README.md
 ```
@@ -69,8 +69,8 @@ hybrid_recommender/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-username>/hybrid_recommender.git
-   cd hybrid_recommender
+   git clone https://github.com/<your-username>/Restaurant-Recommender-System.git
+   cd Restaurant-Recommender-System
    ```
 
 2. **Install dependencies**
